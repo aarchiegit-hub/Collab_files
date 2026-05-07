@@ -73,32 +73,6 @@ labs/
 
 ---
 
-# 📷 Screenshots
-
-## 🔹 GitHub Repository Preview
-
-<img width="100%" alt="Repository Preview" src="https://raw.githubusercontent.com/aarchiegit-hub/labs/main/assets/repository_preview.png">
-
----
-
-## 🔹 Financial Risk Analytics Lab
-
-<img width="100%" alt="Financial Risk Lab" src="https://raw.githubusercontent.com/aarchiegit-hub/labs/main/assets/financial_risk_lab.png">
-
----
-
-## 🔹 Fraud Detection Analytics
-
-<img width="100%" alt="Fraud Detection" src="https://raw.githubusercontent.com/aarchiegit-hub/labs/main/assets/fraud_detection.png">
-
----
-
-## 🔹 SHAP & LIME Explainable AI
-
-<img width="100%" alt="Explainable AI" src="https://raw.githubusercontent.com/aarchiegit-hub/labs/main/assets/shap_lime.png">
-
----
-
 # 🛠️ Technologies Used
 
 - Python 🐍
